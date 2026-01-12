@@ -1,8 +1,8 @@
 # ⚠️ If hosting under a repo path, use full URL (e.g. https://<github_username>.github.io/<repo_name>) or images won’t display correctly
-baseURL: https://hugo-themes.github.io/toha-example-site/
+baseURL: https://mrbmp33.github.io
 
 languageCode: bn
-title: "John's Blog"
+title: "Bernat's Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -24,13 +24,9 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Bernat's Portfolio"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
-    weight: 2
+
 # default language for the content
 defaultContentLanguage: en
 
@@ -71,7 +67,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/mrbmp33/mrbmp33.github.io
   # Default branch of your Git repo
   gitBranch: main
 
@@ -156,7 +152,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enable: true
+      enable: false
       services:
         # Google Analytics
         google:
