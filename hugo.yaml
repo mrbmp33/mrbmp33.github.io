@@ -4,6 +4,12 @@ baseURL: https://mrbmp33.github.io
 languageCode: bn
 title: "Bernat's Portfolio"
 
+# Cleanup sitemap
+disableKinds:
+  - sitemap
+cleanDestinationDir: true
+
+
 # Use Hugo modules to add theme
 module:
   imports:
@@ -55,7 +61,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/background.webp
   # Background image of the landing page for dark theme
   #darkBackground: /images/site/background.jpg
 
