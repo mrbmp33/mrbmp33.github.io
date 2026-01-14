@@ -17,7 +17,7 @@ buttons:
   filter: "basic"
 - name: Languages
   filter: "language"
-- name: Framework
+- name: Frameworks
   filter: "framework"
 # - name: Container
 #   filter: "container"
@@ -38,7 +38,7 @@ skills:
 
 - name: Rigging
   logo: /images/sections/skills/rigging.png
-  summary: "Experience in character and prop rigging. Skilled in creating advanced rigs that facilitate complex character movements and deformations. Knowledgeable in rigging principles, skinning techniques, and rig optimization for performance."
+  summary: "Experience in character and prop rigging. Skilled in creating advanced rigs that facilitate complex character movements and deformations. Knowledgeable in rigging principles, skinning techniques, and rig profiling optimization for performance."
   categories: ["others"]
   url: "https://en.wikipedia.org/wiki/Character_rigging"
 

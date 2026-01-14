@@ -11,63 +11,76 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
+    name: Skydance Animation Madrid
     url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
+    location: Madrid, Spain
+    logo: /images/sections/experiences/skydance_animation.jpg
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
+    darkLogo: /images/sections/experiences/skydance_animation_dark.jpg
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Joined as a Technical Director at Skydance Animation Madrid, a leading animation studio known for creating high-quality animated films.
+      Relevant works include contributions in the production of [*Spellbound*](https://www.imdb.com/title/tt7215232/) (2024) and [*Swapped*](https://www.imdb.com/title/tt29552248/) (2026), both released on Netflix.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Technical Director
+    start: Jan 2023
+    end: Nov 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Gives technical support to artists and other departments using a ticketing system.
+    - Extends and maintains the in-house USD-based pipeline compatible with tools like Autodesk Maya, Houdini, and Nuke and Flow Production Tracking.
+    - Works hand in hand with the Animation, Layout, Setdressing, Modeling&Surfacing and Crowds departments to provide technical solutions to their daily challenges.
+    - GUI development for internal tools using PySide and Qt.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
+    name: ICON Creative Studio
+    url: "https://www.iconcreativestudio.com/"
+    location: Vancouver, BC, Canada
+    logo: /images/sections/experiences/icon_logo.jpg
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    darkLogo: /images/sections/experiences/icon_logo_dark.jpg
+    overview: Joined ICON Creative Studio, known for producing animated series for large brands and streaming platforms as a Rigger
+      Noteworthy projects include the first season of [*Wondla*](https://www.imdb.com/title/tt14076044/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_wondla) (2024)
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Junior Rigger
+    start: Jan 2023
+    end: Jan 2024
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Creates rigs using the studio in-house rigging system.
+    - Maintains and updates rigs according to feedback in the review process.
+    - Is actively involved in the development and improvement of the rigging system and pipeline.
+    - Troubleshoots, profiles and provides optimizations to boost performance and usability of rigs for animators.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    name: Minimo VFX
+    url: "https://www.minimovfx.com/"
+    location: Barcelona, Catalonia, Spain
+    logo: /images/sections/experiences/minimo_dark.jpg
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    darkLogo: /images/sections/experiences/minimo.jpg
+    overview: Worked as a rigging apprentice in Minimo VFX, a rigging studio based in Barcelona. Creating new rigs for
+      franchises such as *Pokemon* and learning advanced rigging techniques.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Rigging Intern
+    start: Feb 2021
+    end: May 2021
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Creates high quality rigs using the studio pipeline and rigging toolkit.
+    - Advanced skinning. Achieves organic deformations taking into consideration the anatomy of the characters. Specializes in humanoid and quadruped characters.
+
+- company:
+    name: LaSalle Ramon Llüll University (URL)
+    url: https://www.salleurl.edu/en
+    location: Barcelona, Catalonia, Spain
+    logo: /images/sections/experiences/salle_en.png
+    overview: Assistant to the professor in charge of the "3D Rigging" course in LaSalleURL's Bachelor of Animation and VFX.
+  positions:
+  - designation: Teaching Assistant - (Internship)
+    start: Sep 2019
+    end: Jun 2020
+    responsibilities:
+    - Assists the professor in charge of the course during class hours.
+    - Provides technical support to students regarding rigging concepts and software usage outside of lectures.
+    - Reviews and provides feedback on student assignments and projects.
+    - Prepares supplementary materials and resources to aid student learning.
