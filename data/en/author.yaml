@@ -8,8 +8,8 @@ image: "images/author/berni.webp"
 contactInfo:
   email: "bernatmasvfx@gmail.com"
   phone: "+34644385443"
-  github: johndoe
-  linkedin: johndoe
+  github: https://github.com/mrbmp33
+  linkedin: https://www.linkedin.com/in/bernat-mas-pastor/
   # researchgate: john-doe
 
 # some summary about what you do

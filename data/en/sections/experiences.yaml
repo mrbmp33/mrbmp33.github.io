@@ -70,10 +70,10 @@ experiences:
     - Advanced skinning. Achieves organic deformations taking into consideration the anatomy of the characters. Specializes in humanoid and quadruped characters.
 
 - company:
-    name: LaSalle Ramon Llüll University (URL)
+    name: LaSalle Ramon Llull University (URL)
     url: https://www.salleurl.edu/en
     location: Barcelona, Catalonia, Spain
-    logo: /images/sections/experiences/salle_en.png
+    logo: /images/sections/experiences/salle_en.jpg
     overview: Assistant to the professor in charge of the "3D Rigging" course in LaSalleURL's Bachelor of Animation and VFX.
   positions:
   - designation: Teaching Assistant - (Internship)

@@ -68,7 +68,7 @@ skills:
 
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Know basic C/C++ programming."
   categories: ["basic", "language"]
 
 - name: Houdini Digital Asset (HDA) creation
