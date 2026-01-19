@@ -21,7 +21,7 @@
     {{ $embedUrl := replace .url "vimeo.com/" "player.vimeo.com/video/" }}
     <div class="video-container mb-4 d-flex flex-column align-items-center">
       <h3 class="text-center mb-3">{{ .name }}</h3>
-      <div class="ratio ratio-16x9 w-100" style="max-width: calc(calc(100% - 45rem));">
+      <div class="ratio ratio-16x9 w-100" style="max-width: calc(calc(100% - 45rem)); min-width: 150px;">
         <iframe
           src="{{ $embedUrl }}"
           title="{{ .name }}"
