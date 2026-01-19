@@ -29,8 +29,8 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Gives technical support to artists and other departments using a ticketing system.
-    - Extends and maintains the in-house USD-based pipeline compatible with tools like Autodesk Maya, Houdini, and Nuke and Flow Production Tracking.
-    - Works hand in hand with the Animation, Layout, Setdressing, Modeling&Surfacing and Crowds departments to provide technical solutions to their daily challenges.
+    - Extends and maintains the in-house USD-based pipeline compatible with tools like Autodesk Maya, Houdini, Nuke and Flow Production Tracking.
+    - Works hand in hand with the Animation, Layout, Set Dressing, Modeling & Surfacing and Crowds departments to provide technical solutions to their daily challenges.
     - GUI development for internal tools using PySide and Qt.
 
 - company:
@@ -40,7 +40,7 @@ experiences:
     logo: /images/sections/experiences/icon_logo.jpg
     # Can optionally show a different logo for dark theme
     darkLogo: /images/sections/experiences/icon_logo_dark.jpg
-    overview: Joined ICON Creative Studio, known for producing animated series for large brands and streaming platforms as a Rigger
+    overview: Joined ICON Creative Studio, known for producing animated series for large brands and streaming platforms as a Rigger.
       Noteworthy projects include the first season of [*Wondla*](https://www.imdb.com/title/tt14076044/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_wondla) (2024)
   positions:
   - designation: Junior Rigger
@@ -74,7 +74,7 @@ experiences:
     url: https://www.salleurl.edu/en
     location: Barcelona, Catalonia, Spain
     logo: /images/sections/experiences/salle_en.jpg
-    overview: Assistant to the professor in charge of the "3D Rigging" course in LaSalleURL's Bachelor of Animation and VFX.
+    overview: Assistant to the professor in charge of the "3D Rigging" course in *LaSalle URL*'s Bachelor of Animation and VFX.
   positions:
   - designation: Teaching Assistant - (Internship)
     start: Sep 2019

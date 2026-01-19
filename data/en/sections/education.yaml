@@ -14,7 +14,7 @@ degrees:
   icon: fa-graduation-cap
   timeframe: 2017-2021
   institution:
-    name: LaSalle Universitat Ramon Llull (URL)
+    name: LaSalle Universitat Ramon Llull (URL) (English)
     url: "https://www.salleurl.edu/en/education/bachelor-animation-and-vfx"
     logo: /images/sections/experiences/salle_en.jpg
   customSections: #(optional)
