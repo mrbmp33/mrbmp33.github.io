@@ -23,7 +23,7 @@ degrees:
     - name: Tutor
       content: Ignasi Duelo Fandos.
     - name: Diploma
-      content: "[Diploma PDF](/images/sections/education/diploma_grau_animacio_bernat_mas.pdf)"
+      content: "[Diploma PDF](/files/diploma_grau_animacio_bernat_mas.pdf)"
 
 - name: Cambridge Advanced English (CAE) (C1 Level)
   icon: fa-certificate
