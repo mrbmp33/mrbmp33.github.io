@@ -1,7 +1,7 @@
 # ⚠️ If hosting under a repo path, use full URL (e.g. https://<github_username>.github.io/<repo_name>) or images won’t display correctly
-baseURL: https://mrbmp33.github.io/mrbmp33.github.io/
+baseURL: https://mrbmp33.github.io
 
-languageCode: bn
+languageCode: en
 title: "Bernat's Portfolio"
 
 # Cleanup sitemap
@@ -107,11 +107,11 @@ params:
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
-        facebook: true
-        twitter: true
+        facebook: false
+        twitter: false
         linkedin: true
-        reddit: true
-        whatsapp: true
+        reddit: false
+        whatsapp: false
         email: true
         # tumblr: true
         # pocket: true
