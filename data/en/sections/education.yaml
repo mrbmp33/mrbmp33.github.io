@@ -22,8 +22,10 @@ degrees:
       content: Rigging Systems development with Python.
     - name: Tutor
       content: Ignasi Duelo Fandos.
-    - name: Diploma
-      content: "[Diploma PDF](/files/diploma_grau_animacio_bernat_mas.pdf)"
+    - name: Graduation Animated Short
+      content: "[Missing Pieces (teaser trailer)](https://www.youtube.com/watch?v=HFTNNlg8eJY)"
+    # - name: Diploma
+    #   content: "[Diploma PDF](/files/diploma_grau_animacio_bernat_mas.pdf)"
 
 - name: Cambridge Advanced English (CAE) (C1 Level)
   icon: fa-certificate
